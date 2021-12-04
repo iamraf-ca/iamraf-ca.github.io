@@ -1,0 +1,119 @@
+baseURL = "https://toguko.com/"
+title = "Toguko's Meditations"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-4076972-3"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Toguko's Meditations"
+description = "Writings to myself"
+keywords = [ "Blog", "Portfolio", "CyberSecurity", "SecDevOps" ]
+author = "Rafael Toguko"
+DateForm = "30.12.2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+  [params.assets]
+  favicon = "<link rel='favicon' sizes='180x180' href='{{ site.BaseURL }}images/favicon/icons-ethernet-on.png'"
+
+  [params.label]
+  text = "Home"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = true
+  title = 'Rafael "Toguko"'
+  subtitle = "Hacker / Developer"
+  imageUrl = "images/avatar/avatar.png"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Rafael Venancio Dias. aka Toguko"
+
+    [[params.profileMode.buttons]]
+    name = "Blog"
+    url = "/posts"
+    [[params.profileMode.buttons]]
+    name = "About"
+    url = "/about"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:toguko@gmail.com"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/rafaeldias1/"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/toguko"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/toguko"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/<path_to_repo>/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+  [params.outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "posts"
+name = "Blog"
+url = "/posts/"
+weight = 2 
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 3 
+
+#[[menu.main]]
+#identifier = "services"
+#name = "Services"
+#url = ""
+#weight = 4
