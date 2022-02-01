@@ -8,6 +8,9 @@ buildFuture = false
 buildExpired = false
 googleAnalytics = "UA-4076972-3"
 
+[params.analytics.google]
+SiteVerificationTag = "UA-4076972-3"
+
 [minify]
 disableXML = true
 minifyOutput = true
