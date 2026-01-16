@@ -1,0 +1,17 @@
+---
+author: "Rafael Dias"
+title: "Art post test"
+date: "2024-10-11"
+description: "Sample article showcasing photos"
+tags: ["art", "photo"]
+categories: ["art", "photo"]
+aliases: ["art-post"]
+cover:
+  image: images/msg.png
+---
+
+![Photo 1](/photos/1000025135.jpg)
+![Photo 2](/photos/IMG_2012.jpg)
+![Photo 3](/photos/IMG_2099.JPG)
+![Photo_4](/photos/IMG_2111.jpg)
+![Photo_5](/photos/IMG_2229.JPG)

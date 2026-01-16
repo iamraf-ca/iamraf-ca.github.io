@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on I&#39;m Raf</title>
+    <link>https://iamraf.ca/tags/</link>
+    <description>Recent content in Tags on I&#39;m Raf</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iamraf.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art</title>
+      <link>https://iamraf.ca/tags/art/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>https://iamraf.ca/tags/photography/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/photography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Street Photography</title>
+      <link>https://iamraf.ca/tags/street-photography/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/street-photography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://iamraf.ca/tags/about-me/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/about-me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docs</title>
+      <link>https://iamraf.ca/tags/docs/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PaperMod</title>
+      <link>https://iamraf.ca/tags/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/papermod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://iamraf.ca/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://iamraf.ca/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://iamraf.ca/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://iamraf.ca/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://iamraf.ca/tags/code/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gist</title>
+      <link>https://iamraf.ca/tags/gist/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/gist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://iamraf.ca/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://iamraf.ca/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>https://iamraf.ca/tags/syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://iamraf.ca/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/tags/emoji/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

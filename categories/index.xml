@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on I&#39;m Raf</title>
+    <link>https://iamraf.ca/categories/</link>
+    <description>Recent content in Categories on I&#39;m Raf</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iamraf.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>https://iamraf.ca/categories/personal/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/categories/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>https://iamraf.ca/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/categories/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://iamraf.ca/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/categories/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

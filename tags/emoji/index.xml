@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emoji on I&#39;m Raf</title>
+    <link>https://iamraf.ca/tags/emoji/</link>
+    <description>Recent content in Emoji on I&#39;m Raf</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iamraf.ca/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>https://iamraf.ca/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://iamraf.ca/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+  </channel>
+</rss>
