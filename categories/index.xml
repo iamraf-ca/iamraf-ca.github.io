@@ -15,19 +15,5 @@
       <guid>https://iamraf.ca/categories/personal/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Syntax</title>
-      <link>https://iamraf.ca/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iamraf.ca/categories/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>https://iamraf.ca/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iamraf.ca/categories/themes/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
