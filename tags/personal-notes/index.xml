@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on I&#39;m Raf</title>
-    <link>https://iamraf.ca/posts/</link>
-    <description>Recent content in Posts on I&#39;m Raf</description>
+    <title>Personal-Notes on I&#39;m Raf</title>
+    <link>https://iamraf.ca/tags/personal-notes/</link>
+    <description>Recent content in Personal-Notes on I&#39;m Raf</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iamraf.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iamraf.ca/tags/personal-notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Am Writing Again</title>
       <link>https://iamraf.ca/posts/why_i_am_writing_again/</link>
